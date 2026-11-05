@@ -1,0 +1,8 @@
+{
+  "name": "prisaha-asistent",
+  "version": "0.6.0",
+  "description": "Monitoring a znalosti, práce s vlastním AI týmem a oslovení jeho členů, správa obsahu a nácvik rozhovoru s uložením přepisu a hodnocení.",
+  "author": {
+    "name": "Vladimír Šenflok"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "prisaha",
+  "owner": {
+    "name": "Vladimír Šenflok"
+  },
+  "description": "Plugin pro práci s aplikací Přísaha v Claude.",
+  "plugins": [
+    {
+      "name": "prisaha-asistent",
+      "source": "./plugins/prisaha-asistent",
+      "description": "Monitoring a znalosti, práce s vlastním AI týmem a oslovení jeho členů, správa obsahu a nácvik rozhovoru s uložením přepisu a hodnocení."
+    }
+  ]
+}

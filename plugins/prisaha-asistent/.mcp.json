@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "prisaha": {
+      "type": "http",
+      "url": "https://prisaha.senflokovi.cz/mcp",
+      "oauth": {
+        "clientId": "01a1ad68-6a33-707a-bbce-f495b6d1afb3",
+        "callbackPort": 33418
+      }
+    }
+  }
+}
