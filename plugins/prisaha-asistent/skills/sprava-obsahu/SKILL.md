@@ -75,7 +75,7 @@ Když uživatel řekne „uprav postoj“, zjisti z kontextu, o kterou z těchto
 Zadávají se týmu postupem `prace-s-tymem`:
 - **příspěvek:** `kind='post'` s kanály `facebook`, `instagram`, `x` nebo `article`,
 - **analýza:** `kind='conversation'`,
-- **příprava:** `kind='preparation'` s `preparation_type` `debate` nebo `meeting`.
+- **příprava:** `kind='preparation'` s `preparation_type` `debate` nebo `meeting`; „Podle otázek“ (`questions`) vzniká jen nástrojem `app_preparation_from_questions`.
 
 Konkrétního člena oslovíš `@Jménem` (viz `muj-tym`). Texty jsou návrhy pro člověka; nic se automaticky nezveřejňuje.
 
